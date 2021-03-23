@@ -1,0 +1,186 @@
+import zukerberg from '../../images/zukerberg.jpg';
+import gates from '../../images/gates.jpg';
+import buffett from '../../images/buffett.jpg';
+const PaperCard = [
+    {
+        img: buffett,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: zukerberg,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: gates,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: buffett,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: gates,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: zukerberg,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: gates,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: zukerberg,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: buffett,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: buffett,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: zukerberg,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: gates,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: buffett,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: gates,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: zukerberg,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: gates,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: zukerberg,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: buffett,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: buffett,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: zukerberg,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: gates,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: buffett,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: gates,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: zukerberg,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: gates,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: zukerberg,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: buffett,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: gates,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: zukerberg,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+    {
+        img: buffett,
+        title: 'Image',
+        author: 'author',
+        cols: 2,
+    },
+]
+export default PaperCard;
